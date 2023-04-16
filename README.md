@@ -17,6 +17,8 @@ Company and Location Extraction: Users can identify companies and locations ment
 Financial Tone and Forward Looking Statement Analysis: Users can analyze the financial tone of sentences in the text using a pre-trained sentiment analysis model, and also identify forward-looking statements.
 
 # Installation
+
+Note: Please make sure to set the auth_token variable with your Hugging Face API token in order to use the models from Hugging Face Hub.
 To use Financial Analyst AI, follow these steps:
 
 1. Install the required Python libraries using the following commands:
